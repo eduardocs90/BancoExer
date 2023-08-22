@@ -15,7 +15,8 @@ A tabela "Trabalho" também relaciona funcionários a departamentos, mas usa IDs
 As consultas finais apresentam diferentes aspectos do relacionamento das tabelas, incluindo o número de funcionários por departamento, os nomes dos funcionários e seus cargos, bem como uma listagem de departamentos, funcionários e seus salários.
 
 Essas tabelas e consultas fornecem uma base para rastrear os funcionários, seus cargos e associações com os departamentos.
-![modelo_bd2 png](https://github.com/eduardocs90/BancoExer/assets/141246270/96765b36-5d9e-4c35-a6ec-50837c4fa050)
+![modelo4_db png](https://github.com/eduardocs90/BancoExer/assets/141246270/740e5cd9-7f55-429f-8aef-5f641da8471d)
+
 
 
 
