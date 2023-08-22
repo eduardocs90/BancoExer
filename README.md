@@ -1,3 +1,6 @@
+
+
+
 # BancoExer
 O projeto consiste em um sistema de gerenciamento de funcionários e departamentos. Três tabelas principais são usadas para armazenar informações: "Funcionario", "Departamento" e "FuncionarioDepartamento". A tabela "Trabalho" também é criada para relacionar funcionários e departamentos.
 
@@ -12,4 +15,6 @@ A tabela "Trabalho" também relaciona funcionários a departamentos, mas usa IDs
 As consultas finais apresentam diferentes aspectos do relacionamento das tabelas, incluindo o número de funcionários por departamento, os nomes dos funcionários e seus cargos, bem como uma listagem de departamentos, funcionários e seus salários.
 
 Essas tabelas e consultas fornecem uma base para rastrear os funcionários, seus cargos e associações com os departamentos.
-<img src="imagens\modelo_bd.png" alt="Modelo Conceitual do Banco de Dados">
+
+![modelo_bd png](https://github.com/eduardocs90/BancoExer/assets/141246270/bd9cab64-6091-412b-b05a-dda5f21df2d2)
+
